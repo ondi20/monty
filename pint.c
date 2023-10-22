@@ -1,8 +1,6 @@
 #include "monty.h"
 /**
- * f_pint - prints the top
- * @head: stack head
- * @counter: line_number
+ * f_pint - prints the r
  * Return: no return
 */
 void f_pint(stack_t **head, unsigned int counter)
